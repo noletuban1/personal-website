@@ -1,0 +1,81 @@
+/*
+Name: Minh Nguyen
+This is the CSS for the Homepage only
+*/
+
+h1, footer {
+    background-color: lightblue;
+    display: flex;
+    text-align: center;
+
+}
+
+
+
+
+body {
+    background-color: beige;
+
+}
+
+body h1 {
+    background-image: url("https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2021/01/UWBrand-GoldBackground.jpg");
+}
+
+section {
+   padding: 10px;
+   background-color: gray;
+}
+
+h1, footer{
+   display:flex;
+    justify-content: space-evenly;
+}
+main h2 {
+    background-color:lightgreen;
+}
+
+ #picture {
+
+
+ }
+
+.colorful-header {
+    color: blue
+}
+
+#outer-box {
+    width: ;
+    height: ;
+    padding:;
+    background-color: violet;
+}
+
+#menu-list {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width:500px;
+    height:200px;
+    border-style:solid;
+    border-width:0.5em;
+    border-radius: 1em;
+    border-color: rgb(105,135,51);
+}
+
+/* all image style here */
+#minhpoortrait{
+    border-radius: 500px;
+    width: 8%
+}
+
+div img{
+    height:300px;
+    width: 300px;
+
+}
+#minhfamily {
+    height:100px;
+    width: 100px;
+}
+
